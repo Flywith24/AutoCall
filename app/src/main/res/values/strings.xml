@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AutoCall</string>
+    <string name="hint">请输入电话号码</string>
+    <string name="call">拨打</string>
+</resources>
